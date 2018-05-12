@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5532
     wikipedia: http://en.wikipedia.org/wiki/Charles_Macklin
 description: Augustan Reprint Society, publication number 26
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14463#The-Man-of-the-World--1792-
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
 identifiers:
